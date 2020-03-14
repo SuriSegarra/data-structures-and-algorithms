@@ -22,3 +22,5 @@ function binarySearch(items, value){
 }
 
 console.log(binary_Search(items, 15));   
+
+
