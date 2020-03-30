@@ -1,0 +1,27 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuriSegarra/data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuriSegarra/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/SuriSegarra/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
